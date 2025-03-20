@@ -4,7 +4,7 @@
 ### 
 I am an [industrial hygienist](https://www.mihsweb.org/Board-Members), environmental epidemiologist, and statistician interested in reducing the gaps in environmental health disparities by bridging the fields of environmental health and occupational health together.
 
-I am currently a PhD Candidate at the Department of Environmental Health Sciences in the University of Michigan School of Public Health under the joint mentorship of Drs. [Richard Neitzel](https://sph.umich.edu/faculty-profiles/neitzel-richard.html) and [Jon Zelner](https://sph.umich.edu/faculty-profiles/zelner-jon.html). I am a [NIOSH Targeted Research Training Fellow](https://cohse.umich.edu/academics/targeted-research-training-trt/) at the Center for Occupational Health and Safety Engineering. I graduated with my B.S in Statistics (2020) at the University of Michigan and moved onto my M.S. in Industrial Hygiene (2023) at the University of Michigan School of Public Health.
+I am currently a PhD Candidate at the Department of Environmental Health Sciences in the University of Michigan School of Public Health under the primary mentorship of Dr. [Richard Neitzel](https://sph.umich.edu/faculty-profiles/neitzel-richard.html). I am a [NIOSH Targeted Research Training Fellow](https://cohse.umich.edu/academics/targeted-research-training-trt/) at the Center for Occupational Health and Safety Engineering. I graduated with my B.S in Statistics (2020) at the University of Michigan and moved onto my M.S. in Industrial Hygiene (2023) at the University of Michigan School of Public Health.
 
 I am energized by the challenge of investigating cumulative impacts and health disparities by connecting industrial hygiene to environmental health because the separation of these fields is evident in research (i.e., NIOSH vs NIEHS) and in government (OSHA vs EPA). Understanding cumulative exposures in the workplace and in the community together is crucial for establishing policies that are truly protective of the public's health. Otherwise, we may be helping some people, but not helping them enough.
 
@@ -12,6 +12,13 @@ I am energized by the challenge of investigating cumulative impacts and health d
 
 ## Publications
 ### Peer-reviewed
+
+<p><b>2025</b></p>
+- <b>Shkembi A</b> & Neitzel RL (2025). [Historical Redlining and Cumulative Environmental Impacts across the United States](https://doi.org/10.1021/acs.estlett.4c01111). <i>Environmental Science & Technology Letters</i>
+
+- <b>Shkembi A</b> (2025). [Caution with Self-Reported Noise](https://doi.org/10.1080/15459624.2024.2422059). <i>Journal of Occupational and Environmental Health</i>
+
+- He J, Smith LM, <b>Shkembi A</b>, Neitzel RL (2025). [Evaluating the Impact of Occupational Noise Exposure on Workplace Fatal and Nonfatal Injuries in the U.S., 2006 - 2020](https://doi.org/10.1016/j.ijheh.2024.114468). <i>International Journal of Hygiene and Environmental Health</i>
 
 <p><b>2024</b></p>
 - <b>Shkembi A</b>, Zelner J, Park SK, Neitzel RL (2024). [Workplace exposures vary across neighborhoods in the US: implications on social vulnerability and racial/ethnic health disparities](https://doi.org/10.1007/s40615-024-02143-5). <i>Journal of Racial and Ethnic Health Disparities</i>
@@ -31,6 +38,8 @@ I am energized by the challenge of investigating cumulative impacts and health d
 
 <p><b>2022</b></p>
 - <b>Shkembi A</b>, Smith LM, Bregg S, Neitzel RL (2022). [Evaluating occupational noise exposure as a contributor to injury risk among miners](https://doi.org/10.1093/annweh/wxac059). <i>Annals of Work Exposures and Health</i>
+
+- <b>Shkembi A</b>, Neitzel RL (2022). [Noise as a risk factor for COVID-19 transmission: Comment on Zhang: “Estimation of differential occupational risk of COVID-19 by comparing risk factors with case data by occupational group”](https://doi.org/10.1002/ajim.23349). <i>American Journal of Industrial Medicine</i>
 
 - <b>Shkembi A</b>, Smith LM, Le AB, Neitzel RL (2022). [Noise exposure and mental workload: evaluating the role of multiple noise exposure metrics among surface miners in the US Midwest](https://doi.org/10.1016/j.apergo.2022.103772). <i>Applied Ergonomics</i>
 
@@ -56,9 +65,13 @@ I am energized by the challenge of investigating cumulative impacts and health d
 ## Presentations
 
 ### Invited
-- <b>Shkembi A</b>. Harvard T.H. Chan School of Public Health ERC Seminar(April 2024), Boston, MA, USA. "[Mapping Out Community Risks to Workplace Exposures](https://drive.google.com/file/d/1gqMu3lSLFE8-_uglpFF1HJC53TsZVyhs/view?usp=sharing)"
+- <b>Shkembi A</b>. National Academy of Engineering (NAE) Technology for a Quieter America (TQA): Urban Noise - Impact and Control (October 2024), Washington, DC, USA. "[Neighborhoods with High Environmental Noise in the US](https://drive.google.com/file/d/1aNXbd2ZMmTvjaiicN6uJVZwzV5EN7vfG/view?usp=drive_link)"
+
+- <b>Shkembi A</b>. Harvard T.H. Chan School of Public Health ERC Seminar (April 2024), Boston, MA, USA. "[Mapping Out Community Risks to Workplace Exposures](https://drive.google.com/file/d/1gqMu3lSLFE8-_uglpFF1HJC53TsZVyhs/view?usp=sharing)"
 
 ### Submitted
+- <b>Shkembi A</b>. National Hearing Conservation Association 49th Annual Conference (February 2025), Charleston, SC, USA. "[Public Health Prevention of Hearing Loss in the United States, 2019-2022](https://drive.google.com/file/d/10n1RDA45lECgeiFFPCU5kTo5afjMCBMx/view?usp=drive_link)"
+
 - <b>Shkembi A</b>. National Hearing Conservation Association 48th Annual Conference (February 2024), Albuquerque, NM, USA. "[Risk perception or hazard perception? Examining misperceptions in miners’ personal exposures to noise](https://drive.google.com/file/d/15ruDkQS4thgj4bF788Rt9W6psR3KakVc/view?usp=sharing)"
 
 - <b>Shkembi A</b>. International Society of Environmental Epidemiology (ISEE) – North American Chapter 1st Annual Conference (June 2023), Corvallis, OR, USA. "[Assessing Occupational Justice in the State of Michigan](https://drive.google.com/file/d/1blIcI_UKjzCTiM6gw1oGFcKVYt36ZKTF/view?usp=drive_link)"
