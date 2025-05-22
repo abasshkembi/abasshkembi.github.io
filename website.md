@@ -2,13 +2,21 @@
 
 ## About
 ### 
-I am an [industrial hygienist](https://www.mihsweb.org/Board-Members), environmental epidemiologist, and statistician interested in reducing the gaps in environmental health disparities by bridging the fields of environmental health and occupational health together.
+I am an industrial hygienist, environmental epidemiologist, and statistician. My main interests include (i) reducing the gaps in environmental health disparities by bridging the fields of environmental health and occupational health together and (ii) using novel statistical methodology to improve industrial hygiene practice.
 
-I am currently a PhD Candidate at the Department of Environmental Health Sciences in the University of Michigan School of Public Health under the primary mentorship of Dr. [Richard Neitzel](https://sph.umich.edu/faculty-profiles/neitzel-richard.html). I am a [NIOSH Targeted Research Training Fellow](https://cohse.umich.edu/academics/targeted-research-training-trt/) at the Center for Occupational Health and Safety Engineering. I graduated with my B.S in Statistics (2020) at the University of Michigan and moved onto my M.S. in Industrial Hygiene (2023) at the University of Michigan School of Public Health.
+I am currently a PhD Candidate at the Department of Environmental Health Sciences in the University of Michigan School of Public Health under the primary mentorship of Dr. [Richard Neitzel](https://sph.umich.edu/faculty-profiles/neitzel-richard.html). I was a [2023-24 NIOSH Targeted Research Training Fellow](https://cohse.umich.edu/academics/targeted-research-training-trt/) at the Center for Occupational Health and Safety Engineering. I graduated with my B.S in Statistics (2020) at the University of Michigan and moved onto my M.S. in Industrial Hygiene (2023) at the University of Michigan School of Public Health.
 
-I am energized by the challenge of investigating cumulative impacts and health disparities by connecting industrial hygiene to environmental health because the separation of these fields is evident in research (i.e., NIOSH vs NIEHS) and in government (OSHA vs EPA). Understanding cumulative exposures in the workplace and in the community together is crucial for establishing policies that are truly protective of the public's health. Otherwise, we may be helping some people, but not helping them enough.
+I am energized by the challenge of investigating cumulative occupational and environmental impacts by connecting industrial hygiene to environmental health because the separation of these fields is evident in research (i.e., NIOSH vs NIEHS) and in government (OSHA vs EPA). Understanding cumulative exposures in the workplace and in the community together is crucial for establishing policies that are truly protective of the public's health. Otherwise, we may be helping some people, but not helping them enough.
 
-![headshot](../media/headshot/abas_shkembi_small.jpg)
+![headshot](../media/images/home_collage.png)
+
+## Education
+###  
+- <b>PhD</b>, Environmental Health Sciences, University of Michigan School of Public Health, Ann Arbor, <i2>2023–Present</i2>
+
+- <b>MS</b>, Industrial Hygiene,  University of Michigan School of Public Health, Ann Arbor, 2021-2023
+
+- <b>BS</b>, Statistics,  University of Michigan, Ann Arbor, 2017-2020
 
 ## Publications
 ### Peer-reviewed
@@ -70,6 +78,10 @@ I am energized by the challenge of investigating cumulative impacts and health d
 - <b>Shkembi A</b>. Harvard T.H. Chan School of Public Health ERC Seminar (April 2024), Boston, MA, USA. "[Mapping Out Community Risks to Workplace Exposures](https://drive.google.com/file/d/1gqMu3lSLFE8-_uglpFF1HJC53TsZVyhs/view?usp=sharing)"
 
 ### Submitted
+- <b>Shkembi A</b>. American Industrial Hygiene Association Connect 2025 (May 2025), Kansas City, MO, USA. “[Using Casual Inference and Machine Learning with Exposure Determinant Modeling to Identify Important Workplace Controls](https://drive.google.com/file/d/1_g3npjzmSIyFWwFu8UjhlYd9ggW7DMey/view?usp=sharing)"
+
+- <b>Shkembi A</b>. American Industrial Hygiene Association Connect 2025 (May 2025), Kansas City, MO, USA. “[Hazardous Heat and Wildfire Exposure Among Outdoor Workers in the United States, 2010-2019](https://drive.google.com/file/d/1A1JylaFBzFmBPanUZc0Bt38bMDCaZL0_/view?usp=sharing)"
+
 - <b>Shkembi A</b>. National Hearing Conservation Association 49th Annual Conference (February 2025), Charleston, SC, USA. "[Public Health Prevention of Hearing Loss in the United States, 2019-2022](https://drive.google.com/file/d/10n1RDA45lECgeiFFPCU5kTo5afjMCBMx/view?usp=drive_link)"
 
 - <b>Shkembi A</b>. National Hearing Conservation Association 48th Annual Conference (February 2024), Albuquerque, NM, USA. "[Risk perception or hazard perception? Examining misperceptions in miners’ personal exposures to noise](https://drive.google.com/file/d/15ruDkQS4thgj4bF788Rt9W6psR3KakVc/view?usp=sharing)"
@@ -94,4 +106,24 @@ I am energized by the challenge of investigating cumulative impacts and health d
 
 - <b>Shkembi A</b>, Smith LM, Le A, Neitzel RL. American Industrial Hygiene Conference and Expo 2022 (May 2022), Nashville, TN, USA. "[Noise exposure and mental workload: evaluating the role of multiple noise exposure metrics using BKMR modeling among surface miners in the US Midwest](https://drive.google.com/file/d/1HWPHwA6DhUA6zu9bhCwo9vKez_rA_NEG/edit?usp=drive_link)"
 
+## Professional Experience
+### Peer review
 
+- Editorial Board, <i2>Frontiers in Public Health</i2>
+
+- Ad hoc manuscript reviewer: <i2>BMC Public Health, BMJ Open, Injury Prevention, International Journal of Epidemiology, Occupational and Environmental Medicine, PLoS One, Scientific Reports</i2>
+
+### Memberships
+- American Statistical Association, 2020–
+- International Society of Environmental Epidemiology, 2021–
+- American Conference of Governmental Industrial Hygienists, 2021–
+- American Industrial Hygiene Association, 2021–
+- National Hearing Conservation Association, 2021–
+- Michigan Industrial Hygiene Society, 2023–
+
+### Service
+<b>Professional</b>
+- Board Member, Michigan Industrial Hygiene Society, 2024–
+
+<b>University</b>
+- President’s Commission on Carbon Neutrality, University of Michigan, 2019–2020
