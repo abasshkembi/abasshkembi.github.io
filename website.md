@@ -19,6 +19,11 @@ I am currently a PhD Candidate at the Department of Environmental Health Science
 ## Publications
 ### Peer-reviewed
 
+<p><b>2026</b></p>
+- <b>Shkembi A</b>, Adar SD, Neitzel RL, Childs ML (2026). Workplace exposures may mask wildfire smoke-related exposure inequities and mortality. <i>Environmental Science & Technology Letters</i> [[pdf](https://drive.google.com/file/d/1ZqXJO38y65vJyDMnHgyuDJwppVbymfU2/view?usp=drive_link)] [[Link](https://doi.org/10.1021/acs.estlett.6c00273)]
+
+- Tang Y, Zhang X, Smith LM, <b>Shkembi A</b>, Green GE, Neitzel RL (2026). Tinnitus prevalence and characteristics in the United States: insights from a cross-sectional analysis of the 2019–2022 Apple Hearing Study cohort. <i>BMC Public Health</i> [[pdf](https://drive.google.com/file/d/1h8MrUw09bJd3AU8tUKF7X9dpWNIQbp3l/view?usp=drive_link)] [[Link](https://doi.org/10.1186/s12889-026-27048-2)]
+
 <p><b>2025</b></p>
 - <b>Shkembi A</b>, Linhart E, Chou S, Coulentianos M, Adhvaryu A, Austin-Breneman J, Nambunmee K, Neitzel RL (2025). Enhancing informal workers’ tools to reduce workplace injuries: a quasi-randomized control trial of electronic waste recyclers in Thailand. <i>Scandinavian Journal of Work, Environment & Health</i> [[pdf](https://drive.google.com/file/d/1oDskpob8GmJzhL-FWVYSFJC2m35Qxkcu/view?usp=drive_link)] [[Link](https://doi.org/10.5271/sjweh.4259)]
 
